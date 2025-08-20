@@ -1,6 +1,6 @@
-# hr-portal-trainee
-HR Management Trainee Project 
+# hr-portal-managemnt-system
 
+HR Management Trainee Project
 
 # Employee Functionality
 
@@ -10,29 +10,31 @@ The **Employee Functionality** in the HR Management Trainee Project allows users
 
 ## Features
 
-1. **View All Employees**  
+1. **View All Employees**
+
    - Retrieve a list of all employees with their details, including name, employee ID, date of joining, title, email, and description (if available).
 
-2. **View Own Profile**  
+2. **View Own Profile**
+
    - Employees can view their own profile, including personal details and their description.
 
-3. **Edit Own Profile**  
+3. **Edit Own Profile**
+
    - Employees can update their own profile details, such as name, title, email, and password.
 
-4. **Add or Update Description**  
+4. **Add or Update Description**
+
    - Employees can add or update a description for their profile.
 
-5. **View All Admins**  
+5. **View All Admins**
    - Retrieve a list of all admins with their details.
 
 ---
-
 
 ## Authentication
 
 All endpoints require authentication using a valid JWT token. Include the token in the `Authorization` header as follows:
 Authorization: Bearer <your_token>
-
 
 ---
 
@@ -54,29 +56,31 @@ The **Employee Functionality** in the HR Management Trainee Project allows users
 
 ## Features
 
-1. **View All Employees**  
+1. **View All Employees**
+
    - Retrieve a list of all employees with their details, including name, employee ID, date of joining, title, email, and description (if available).
 
-2. **View Own Profile**  
+2. **View Own Profile**
+
    - Employees can view their own profile, including personal details and their description.
 
-3. **Edit Own Profile**  
+3. **Edit Own Profile**
+
    - Employees can update their own profile details, such as name, title, email, and password.
 
-4. **Add or Update Description**  
+4. **Add or Update Description**
+
    - Employees can add or update a description for their profile.
 
-5. **View All Admins**  
+5. **View All Admins**
    - Retrieve a list of all admins with their details.
 
 ---
-
 
 ## Authentication
 
 All endpoints require authentication using a valid JWT token. Include the token in the `Authorization` header as follows:
 Authorization: Bearer <your_token>
-
 
 ---
 
